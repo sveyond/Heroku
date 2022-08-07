@@ -9,7 +9,7 @@
 
 ## v2ray-heroku
 
-[![](https://www.herokucdn.com/deploy/button.png)](https://github.com/sveyond/Heroku)
+[![](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/sveyond/Heroku)
 
 ## 注意事项
 ### heroku上部署v2ray
